@@ -1,15 +1,11 @@
 {
-  "name": "AlphabotMD",
-  "version": "1.0.5",
-  "description": "Made by ©Putbotz",
-  "main": "zeeone.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "license": "MIT",
+  "name": "PutBotz",
+  "version": "1.0.0",
+  "description": "PutBotz Multi Device",
+  "main": "index.js",
+  "type": "commonjs",
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
