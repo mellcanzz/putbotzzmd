@@ -30,7 +30,7 @@ exports.list = (pushname, ucapanWaktu, namabot) => {
 //MENU OWNER
 exports.sowner = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
@@ -48,7 +48,7 @@ Instagram : @Fandyyy._
 //MENU GRUP
 exports.sgrup = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *👥 GROUP MENU*
 ⚘👾 ${prefix}antilink
@@ -67,7 +67,7 @@ Instagram : @Fandyyy._
 //MENU DOWNLOAD
 exports.sdown = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *📦 DOWNLOAD MENU*
 ⚘👾 ${prefix}tiktok [url]
@@ -84,7 +84,7 @@ Instagram : @Fandyyy._
 //MENU SEARCH
 exports.ssearch = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *🔎 SEARCH MENU*
 ⚘👾 ${prefix}pinterest [query]
@@ -97,7 +97,7 @@ Instagram : @Fandyyy._
 //MENU TEXTPRO
 exports.stextpro = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *👨‍🎨 TEXTPROME MENU*
 ⚘👾 ${prefix}blackpink [teks]
@@ -112,7 +112,7 @@ Instagram : @Fandyyy._
 //MENU ASUPAN
 exports.sasupan = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *👭 ASUPAN MENU*
 ⚘👾 ${prefix}asupanchika
@@ -128,7 +128,7 @@ Instagram : @Fandyyy._
 //MENU CECAN
 exports.scecan = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *🙆‍♀️ GACHA CECAN*
 ⚘👾 ${prefix}cecanvietnam
@@ -144,7 +144,7 @@ Instagram : @Fandyyy._
 //CASE FUN MENU
 exports.sfun = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *🎮 FUN MENU*
 ⚘👾 ${prefix}truth
@@ -160,7 +160,7 @@ Instagram : @Fandyyy._
 //MENU ANIME
 exports.sanime = (prefix) => {
 	return`Media Sosial 🌱
-IG : Fandyyy._
+IG : ツズガx._
 
 *⛩️ ANIME MENU*
 ⚘👾 ${prefix}quotesanime
@@ -203,7 +203,7 @@ IG : Fandyyy._
 //NSFW MENU
 exports.snsfw = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *🔞 NSFW MENU*
 ⚘👾 ${prefix}nekopoi1
@@ -221,7 +221,7 @@ Instagram : @Fandyyy._
 //MAKER MENU
 exports.smaker = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *👨‍🎨 MAKER MENU*
 ⚘👾 ${prefix}toimage
@@ -237,7 +237,7 @@ Instagram : @Fandyyy._
 //OTHER MENU
 exports.sother = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @Fandyyy._
+Instagram : @ツズガx._
 
 *☕ OTHER MENU*
 ⚘👾 ${prefix}ping
