@@ -3,9 +3,9 @@ exports.sewa = () => {
 
 ┏━━━━━━
 ┃𝗛𝗔𝗥𝗚𝗔 𝗦𝗘𝗪𝗔 :
-┃ *1 MINGGU : Rm 5*
-┃ *1 BULAN : Rm 15*
-┃ *PERMANEN : Rm 20*
+┃ *1 MINGGU : Rp 5*
+┃ *1 BULAN : Rp 15*
+┃ *PERMANEN : Rp 20*
 ┗━━━━━━
 ┏━━━━━━
 ┃𝗙𝗜𝗧𝗨𝗥 𝗕𝗢𝗧 :
