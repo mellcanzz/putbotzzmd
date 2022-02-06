@@ -1,6 +1,6 @@
 exports.allmenu = (prefix) => {
 	return`Media Sosial 👾
-Instagram : @whooputt
+Instagram : @ツズガx
 
 *👤 OWNER MENU*
 ⚘👾 ${prefix}chat [option]
